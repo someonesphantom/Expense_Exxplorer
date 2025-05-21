@@ -19,20 +19,17 @@
 
 Below are some screenshots showcasing the app's interface and features:
 
-![Home Screen](assets/screenshots/home_screen.png)  
+![Home Screen](1.jpeg)  
 *Overview of daily expenses and quick add*
 
-![Add Expense](assets/screenshots/add_expense.png)  
+![Add Expense](2.jpeg)  
 *Add a new expense with categories and notes*
 
-![Charts](assets/screenshots/charts.png)  
+![Charts](3.jpeg)  
 *Visualize expenses with interactive charts*
 
-![Monthly Analysis](assets/screenshots/monthly_analysis.png)  
+![Monthly Analysis](4.jpeg)  
 *Analyze monthly spending patterns*
-
-*Replace the image paths above with your actual screenshot file paths in the `assets/screenshots/` folder.*
-
 
 ---
 
