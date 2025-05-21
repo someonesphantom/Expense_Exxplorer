@@ -19,17 +19,29 @@
 
 Below are some screenshots showcasing the app's interface and features:
 
-![Home Screen](1.jpeg)  
-*Overview of daily expenses and quick add*
+<table>
+  <tr>
+    <td align="center">
+      <img src="1.jpeg" alt="Home Screen" width="200" /><br/>
+      <em>Overview of daily expenses and quick add</em>
+    </td>
+    <td align="center">
+      <img src="2.jpeg" alt="Add Expense" width="200" /><br/>
+      <em>Add a new expense with categories and notes</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="3.jpeg" alt="Charts" width="200" /><br/>
+      <em>Visualize expenses with interactive charts</em>
+    </td>
+    <td align="center">
+      <img src="4.jpeg" alt="Monthly Analysis" width="200" /><br/>
+      <em>Analyze monthly spending patterns</em>
+    </td>
+  </tr>
+</table>
 
-![Add Expense](2.jpeg)  
-*Add a new expense with categories and notes*
-
-![Charts](3.jpeg)  
-*Visualize expenses with interactive charts*
-
-![Monthly Analysis](4.jpeg)  
-*Analyze monthly spending patterns*
 
 ---
 
